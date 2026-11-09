@@ -1,4 +1,4 @@
 username,password,expected,run
-standard_user,secret_sauce,Success,true
-locked_out_user,secret_sauce,error,true
-problem_user,secret_sauce,Success,false
+standard_user,secret_sauce,Success,yes
+locked_out_user,secret_sauce,error,yes
+problem_user,secret_sauce,Success,no
